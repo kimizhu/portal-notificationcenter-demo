@@ -24,8 +24,7 @@
     "globalMetadata": {
       "breadcrumb_path": "/portal-notificationcenter-demo/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None",
-      "author": "kimizhu"
+      "feedback_system": "None"
     },
     "markdownEngineName": "markdig",
     "overwrite": [],
