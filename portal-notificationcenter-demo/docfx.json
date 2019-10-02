@@ -2,9 +2,21 @@
   "build": {
     "content": [
       {
+        "src": "azure",
+        "files": [
+            "**/*.yml",
+            "**/*.md"
+        ],
+        "exclude": [
+            "**/includes/**"
+        ],
+        "dest": "modules"
+      },
+      {
         "exclude": [
           "**/obj/**",
           "**/includes/**",
+          "**/design/**",
           "_themes/**",
           "_themes.pdf/**",
           "README.md",
