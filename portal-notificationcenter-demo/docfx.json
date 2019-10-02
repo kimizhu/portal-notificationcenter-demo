@@ -8,7 +8,8 @@
             "**/*.md"
         ],
         "exclude": [
-            "**/includes/**"
+            "**/includes/**",
+            "**/design/**"
         ],
         "dest": "modules"
       },
